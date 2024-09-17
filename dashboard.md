@@ -1,7 +1,9 @@
 ---
 layout: page
 permalink: /dashboard
-title: "Dashboard"
+title: Dashboard
+created: 2023-09-28T17:38+10:00
+updated: 2023-08-02T13:16+10:00
 ---
 # Peter's Farm Stats
 <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/2222177/charts/1?bgcolor=%23ffffff&color=%23d62020&days=1&dynamic=true&max=100&min=0&results=10&title=Soil+Moisture&type=spline&yaxis=Moisture+Level+%28%25%29&yaxismax=100&yaxismin=0"></iframe>

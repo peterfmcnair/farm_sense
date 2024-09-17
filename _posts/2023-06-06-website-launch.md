@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "Official launch of the Farmsense 9000 Website!"
-date:   2023-06-06 19:15:30 +1000
+title: Official launch of the Farmsense 9000 Website!
+date: 2023-06-06 19:15:30 +1000
+created: 2023-09-28T20:53+10:00
+updated: 2023-08-02T13:04+10:00
 ---
 # What is the Farmsense 9000?
 Have you ever had to walk across the entirety of your farm to measure soil moisture? Been stuck in the rain monitoring crops when you'd much rather be inside sipping a hot cup of coffee?
